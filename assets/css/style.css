@@ -14,11 +14,16 @@
     font-family:"yusei" ;
     src: url("../fonts/Yusei_Magic/YuseiMagic-Regular.ttf");
 }
+body{
+    background-color:cadetblue;
+}
 
 section{
     border: 2px solid;
     text-align: center;
-    width: 30%;
+    width: 35%;
     margin: auto;
     padding: 3rem;border-radius: 15px;
+    margin-top: 20%;
+    background-color: burlywood;
 }
