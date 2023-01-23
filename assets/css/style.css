@@ -1,0 +1,16 @@
+@font-face {
+    font-family:"bodoni" ;
+    src: url("../fonts/Bodoni_Moda/static/BodoniModa_18pt/BodoniModa_18pt-Regular.ttf");
+}
+@font-face {
+    font-family:"opensans" ;
+    src: url("../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+@font-face {
+    font-family:"roboto" ;
+    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+@font-face {
+    font-family:"yusei" ;
+    src: url("../fonts/Yusei_Magic/YuseiMagic-Regular.ttf");
+}
